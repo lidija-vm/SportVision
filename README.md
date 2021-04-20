@@ -1,2 +1,2 @@
 # SportVision
-Registracija korisnika
+Test User Registration Process 
